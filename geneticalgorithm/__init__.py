@@ -1,0 +1,3 @@
+from GeneticAlgorithm import GeneticAlgorithm
+from Population import Population
+from Individual import Individual
